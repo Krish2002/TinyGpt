@@ -8,7 +8,7 @@ This repository contains an implementation of TinyGPT, a small-scale GPT model c
 
 ## Configuration
 
-<div style="overflow-x: auto;">
+<div style="overflow-x: auto; width: 100%;">
   
 | Setting          | Value |
 | ---------------- | ----- |
