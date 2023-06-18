@@ -1,7 +1,9 @@
 # TinyGpt
 This repository contains an implementation of TinyGPT, a small-scale GPT model created from scratch
 
-![Figure](images/new_tinygpt.png)
+<div align="center">
+  <img src="images/new_tinygpt.png" alt="figure">
+</div>
 
 
 ## Configuration
