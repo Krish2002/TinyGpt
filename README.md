@@ -1,6 +1,9 @@
 # TinyGpt
 This repository contains an implementation of TinyGPT, a small-scale GPT model created from scratch
 
+![Figure](https://drive.google.com/file/d/13P4-nP8yovsshtI_xJI3Ij0ygXulmyF6/view?usp=drive_link)
+
+
 ## Configuration
 
 | Setting          | Value |
