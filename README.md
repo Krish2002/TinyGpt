@@ -8,6 +8,8 @@ This repository contains an implementation of TinyGPT, a small-scale GPT model c
 
 ## Configuration
 
+<div style="overflow-x: auto;">
+  
 | Setting          | Value |
 | ---------------- | ----- |
 | attn_dropout     | 0.1   |
@@ -18,3 +20,5 @@ This repository contains an implementation of TinyGPT, a small-scale GPT model c
 | num_heads        | 12    |
 | embed_dim        | 768   |
 | num_decoder_blocks | 12   |
+
+</div>
